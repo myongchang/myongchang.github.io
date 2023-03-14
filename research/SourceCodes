@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130562078-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130562078-2');
+</script>
+
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document"><title>Myong's Research</title>
+
+<meta name="Microsoft Theme" content="none">
+<meta name="Microsoft Border" content="b, default">
+<style type="text/css">
+<!--
+.style1 {color: #006666}
+.style2 {
+color: #FF0000;
+font-weight: bold;
+}
+.style6 {font-size: 11px}
+-->
+</style></head>
+<body style="font-family: Verdana;">
+<!--msnavigation-->
+<table border="0" cellpadding="0" cellspacing="0" dir="ltr" width="100%">
+<tbody>
+<tr>
+<!--msnavigation--><td valign="top">
+<p align="right"><font size="1"><a href="http://www.csuohio.edu" style="text-decoration: none;">csu
+home</a> :
+<a href="https://business.csuohio.edu/monte-ahuja-college-business" style="text-decoration: none;">college of business</a> : <a href="https://business.csuohio.edu/economics/economics" style="text-decoration: none;">econ dept</a> :
+<a href="https://campusnet.csuohio.edu/index.jsp" style="text-decoration: none;">campusNet</a></font></p>
+<p align="left"><b><font face="Verdana" size="5">Myong-Hun Chang</font></b></p>
+<hr>
+<span class="style5"><font face="Verdana">&bull;&nbsp;<nobr><a href="../../" style="text-decoration: none">home</a></nobr>&nbsp;&bull; &nbsp;<a href="../chang_cv.pdf" style="text-decoration: none"><nobr>curriculum&nbsp;vitae</nobr></a>&nbsp;&bull; <nobr>research</nobr>&nbsp;&bull;</font></span>
+<hr>
+<h3 align="left"><font color="#669999" face="Verdana">Research</font></h3>
+<hr>
+<h4 align="center"><font face="Verdana" size="2"><a class="style1">Source Codes for Projects</a></font></h4>
+<ul>
+  <li><strong><font face="Verdana" size="2">Spatial Disparities in Vaccination and the Risk of Infection in a Multi-Region Agent-Based Model of Epidemic Dynamics</font></strong><font face="Verdana" size="2"><br>
+     (joint with Troy Tassier)</font>
+    <ul>
+      <li><font face="Verdana" size="2">Wolfram's Mathematica Codes</font>
+        <ul>
+          <li><font size="2" face="Verdana">Base code for the generalized model using Beta distribution: <a href="VaxxCodes/VaxxSourceCode_Beta.nb" style="text-decoration: none;">VaxxSourceCode_Beta.nb</a> (<a href="VaxxCodes/VaxxSourceCode_Beta.pdf" style="text-decoration: none;">PDF copy</a>) </font></li>
+          </ul>
+      </li>
+      </ul>
+  </li>
+</ul>
+<hr>
+</body></html>
